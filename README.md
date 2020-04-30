@@ -15,5 +15,6 @@ Here are some things I learned:
 - [Project 2 Repo](https://uo-cit.github.io/project-2-ewong8/)
 - Web API's
 - JSON, AJAX
-
+- jQuery
 ### Project 3
+- More Web API's, JSON, AJAX
