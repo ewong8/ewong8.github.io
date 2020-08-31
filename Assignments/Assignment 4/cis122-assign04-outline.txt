@@ -1,0 +1,14 @@
+Step 1: Outline
+1) Prompt user for a year and a day of the year (1-365 or 366)
+  - use input function
+  - inputs will be used for calculations in the final code
+  - validate year and day of year
+  - continue to prompt for values if user inputs an invalid value for day or year
+2) Determine whether the specified year is a leap year with the is_leap_year() function
+  - conditional "if" statement should be used
+3) Based on whether or not the is_leap_year() function is true, calculate the number of days
+in the year (365 or 366)
+4) Use chain conditionals to determine the month number containing the day inputed by the user
+5) Convert the month number into the actual month name as a string
+6) Subtract out the number of days in prior months to get the remaining number of days in the current months
+7) Print a string containing the month, day and year
